@@ -1,0 +1,20 @@
+help - Get Help With The Discord Bot
+info - Get Bot Info
+purge - Deletes 0-100 Messages
+clean - Clear Entire Channel Chat History
+kick - Kick Specified User
+ban - Ban Specified User
+mute - Mute A User (Requires "Muted" Role)
+unmute - Unmute A User That Is Currently Muted
+
+
+----------------
+PLEASE READ
+
+- The Mute And Unmute Commands Are Very Percise At The Moment, Please Make Sure Both The Muted Role
+And Member Role Are Spelled Exactly The Same With Correct Capitalization
+
+- If The Member Role Is Not Called "Member" And The Muted Role Is Not Called "Muted" The Commands Will Not Work
+- The Commands Also Do Not Work If The User Has More Then The "Member" Role (Sorry For This, I Am Working On Fixing It)
+
+----------------
